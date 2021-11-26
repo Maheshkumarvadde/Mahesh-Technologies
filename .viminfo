@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1637952608,,"wq"
+|2,0,1637953721,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +25,41 @@
 # Registers:
 
 # File marks:
-'0  1  19  ~/dockerfile
-|4,48,1,19,1637952608,"~/dockerfile"
+'0  1  0  ~/.viminfo
+|4,48,1,0,1637953721,"~/.viminfo"
+'1  5  28  ~/dockerfile
+|4,49,5,28,1637953692,"~/dockerfile"
+'2  1  19  ~/dockerfile
+|4,50,1,19,1637952608,"~/dockerfile"
+'3  1  19  ~/dockerfile
+|4,51,1,19,1637952608,"~/dockerfile"
 
 # Jumplist (newest first):
+-'  1  0  ~/.viminfo
+|4,39,1,0,1637953721,"~/.viminfo"
+-'  5  28  ~/dockerfile
+|4,39,5,28,1637953692,"~/dockerfile"
+-'  5  28  ~/dockerfile
+|4,39,5,28,1637953692,"~/dockerfile"
+-'  1  19  ~/dockerfile
+|4,39,1,19,1637953676,"~/dockerfile"
+-'  1  19  ~/dockerfile
+|4,39,1,19,1637953676,"~/dockerfile"
+-'  1  19  ~/dockerfile
+|4,39,1,19,1637952608,"~/dockerfile"
 -'  1  19  ~/dockerfile
 |4,39,1,19,1637952608,"~/dockerfile"
 
 # History of marks within files (newest to oldest):
 
+> ~/.viminfo
+	*	1637953718	0
+	"	1	0
+
 > ~/dockerfile
-	*	1637952606	0
-	"	1	19
-	^	1	20
-	.	1	19
-	+	1	19
+	*	1637953691	0
+	"	5	28
+	^	5	29
+	.	5	28
+	+	1	20
+	+	5	28
