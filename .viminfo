@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1637953721,,"wq"
+|2,0,1637997436,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,32 +25,59 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.viminfo
-|4,48,1,0,1637953721,"~/.viminfo"
-'1  5  28  ~/dockerfile
-|4,49,5,28,1637953692,"~/dockerfile"
-'2  1  19  ~/dockerfile
-|4,50,1,19,1637952608,"~/dockerfile"
+'0  2  0  ~/jenkins.sh
+|4,48,2,0,1637997436,"~/jenkins.sh"
+'1  1  0  ~/.viminfo
+|4,49,1,0,1637953721,"~/.viminfo"
+'2  5  28  ~/dockerfile
+|4,50,5,28,1637953692,"~/dockerfile"
 '3  1  19  ~/dockerfile
 |4,51,1,19,1637952608,"~/dockerfile"
+'4  1  19  ~/dockerfile
+|4,52,1,19,1637952608,"~/dockerfile"
 
 # Jumplist (newest first):
+-'  2  0  ~/jenkins.sh
+|4,39,2,0,1637997436,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1637997425,"~/jenkins.sh"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1637953721,"~/.viminfo"
 -'  1  0  ~/.viminfo
 |4,39,1,0,1637953721,"~/.viminfo"
 -'  5  28  ~/dockerfile
 |4,39,5,28,1637953692,"~/dockerfile"
 -'  5  28  ~/dockerfile
 |4,39,5,28,1637953692,"~/dockerfile"
+-'  5  28  ~/dockerfile
+|4,39,5,28,1637953692,"~/dockerfile"
+-'  5  28  ~/dockerfile
+|4,39,5,28,1637953692,"~/dockerfile"
 -'  1  19  ~/dockerfile
 |4,39,1,19,1637953676,"~/dockerfile"
 -'  1  19  ~/dockerfile
 |4,39,1,19,1637953676,"~/dockerfile"
+-'  1  19  ~/dockerfile
+|4,39,1,19,1637953676,"~/dockerfile"
+-'  1  19  ~/dockerfile
+|4,39,1,19,1637953676,"~/dockerfile"
+-'  1  19  ~/dockerfile
+|4,39,1,19,1637952608,"~/dockerfile"
+-'  1  19  ~/dockerfile
+|4,39,1,19,1637952608,"~/dockerfile"
 -'  1  19  ~/dockerfile
 |4,39,1,19,1637952608,"~/dockerfile"
 -'  1  19  ~/dockerfile
 |4,39,1,19,1637952608,"~/dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/jenkins.sh
+	*	1637997435	0
+	"	2	0
+	^	2	0
+	.	1	20
+	+	1	20
 
 > ~/.viminfo
 	*	1637953718	0
